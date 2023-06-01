@@ -1,4 +1,4 @@
-package com.codestate.practicegithubActiondeploy;
+package com.codestates.practicegithubActiondeploy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
